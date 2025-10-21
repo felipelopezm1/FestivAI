@@ -1,0 +1,192 @@
+{
+  "T-Mobile": [
+    {
+      "artist": "Tessla",
+      "time": "12:00 - 12:35"
+    },
+    {
+      "artist": "Sam Austins",
+      "time": "1:00 - 1:45"
+    },
+    {
+      "artist": "Daniel Allan",
+      "time": "1:30 - 2:15"
+    },
+    {
+      "artist": "Max McNown",
+      "time": "2:45 - 3:45"
+    },
+    {
+      "artist": "Flux Pavilion",
+      "time": "3:30 - 4:30"
+    },
+    {
+      "artist": "Marina",
+      "time": "4:45 - 5:45"
+    },
+    {
+      "artist": "Doechii",
+      "time": "6:45 - 7:45"
+    },
+    {
+      "artist": "Chase & Status",
+      "time": "7:30 - 8:30"
+    },
+    {
+      "artist": "R\u00dcF\u00dcS DU SOL",
+      "time": "8:45"
+    }
+  ],
+  "Perry's": [
+    {
+      "artist": "Jev",
+      "time": "12:40 - 1:20"
+    },
+    {
+      "artist": "Layz",
+      "time": "2:30 - 3:15"
+    },
+    {
+      "artist": "Dr. Fresch",
+      "time": "4:45 - 5:45"
+    },
+    {
+      "artist": "Levity",
+      "time": "6:15 - 7:15"
+    },
+    {
+      "artist": "Two Friends",
+      "time": "8:45 - 9:45"
+    }
+  ],
+  "Lakeshore": [
+    {
+      "artist": "Winnetka Bowling League",
+      "time": "12:15 - 1:00"
+    },
+    {
+      "artist": "Charlotte Lawrence",
+      "time": "1:45 - 2:45"
+    },
+    {
+      "artist": "Cazriel & Paco Amoroso",
+      "time": "3:45 - 4:45"
+    },
+    {
+      "artist": "Bossman Dlow",
+      "time": "5:45 - 6:45"
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "time": "7:45 - 8:45"
+    }
+  ],
+  "BMI": [
+    {
+      "artist": "Eddie and the Getaway",
+      "time": "1:00 - 1:40"
+    },
+    {
+      "artist": "Carter Vail",
+      "time": "2:10 - 2:50"
+    },
+    {
+      "artist": "Rachel Grae",
+      "time": "3:20 - 4:00"
+    },
+    {
+      "artist": "Junior Varsity",
+      "time": "4:30 - 5:10"
+    },
+    {
+      "artist": "Zoe Ko",
+      "time": "5:40 - 6:20"
+    },
+    {
+      "artist": "People R Ugly",
+      "time": "6:50 - 7:30"
+    },
+    {
+      "artist": "Damiano David",
+      "time": "7:45 - 8:30"
+    }
+  ],
+  "The Grove": [
+    {
+      "artist": "Landon Conrath",
+      "time": "12:00 - 12:30"
+    },
+    {
+      "artist": "Dua Saleh",
+      "time": "12:50 - 1:30"
+    },
+    {
+      "artist": "Salute",
+      "time": "1:50 - 2:30"
+    },
+    {
+      "artist": "Ole Go",
+      "time": "2:50 - 3:30"
+    },
+    {
+      "artist": "Naomi Scott",
+      "time": "4:00 - 4:45"
+    },
+    {
+      "artist": "Orion Sun",
+      "time": "5:15 - 6:00"
+    },
+    {
+      "artist": "Bilmuri",
+      "time": "6:30 - 7:15"
+    },
+    {
+      "artist": "Chicago Youth Symphony",
+      "time": "7:30 - 8:30"
+    },
+    {
+      "artist": "Mk.gee",
+      "time": "9:00 - 10:00"
+    }
+  ],
+  "Tito's Handmade Vodka": [
+    {
+      "artist": "Newdad",
+      "time": "12:15 - 1:00"
+    },
+    {
+      "artist": "Wasia Project",
+      "time": "1:45 - 2:30"
+    },
+    {
+      "artist": "Montell Fish",
+      "time": "3:30 - 4:30"
+    },
+    {
+      "artist": "Fujii Kaze",
+      "time": "5:30 - 6:30"
+    }
+  ],
+  "Bud Light": [
+    {
+      "artist": "Kickflip",
+      "time": "1:00 - 1:45"
+    },
+    {
+      "artist": "B\u00f4a",
+      "time": "2:30 - 3:30"
+    },
+    {
+      "artist": "Young Miko",
+      "time": "4:30 - 5:30"
+    },
+    {
+      "artist": "Clairo",
+      "time": "6:30 - 7:30"
+    },
+    {
+      "artist": "Twice",
+      "time": "8:30 - 10:00"
+    }
+  ]
+}

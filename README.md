@@ -1,25 +1,19 @@
-# AI-4-Media-Project-FelipeLopez
-
-Follow the steps in [the project repository setup instructions](https://moodle.arts.ac.uk/mod/page/view.php?id=1374587) on how to setup the repository for your AI 4 Media mini-project.
-
-
-## Student name: Felipe Lopez Mantilla
-## Student number: 23041393
-## Project title: ClimaSign - Climate and Sign Language Deducer
-## Link to project video recording: https://artslondon-my.sharepoint.com/:f:/g/personal/f_lopezmantilla0520231_arts_ac_uk/EpmviJj8AHpMtdMy2M4l8KwBU0l75lVnKt-JvWETithzXw?e=o8w9ij
-## Link to Project Data Repository (Where the Data, .Tar and other weighty files are saved, must download to run the project): https://artslondon-my.sharepoint.com/:f:/g/personal/f_lopezmantilla0520231_arts_ac_uk/EkWMzA70TWpEkW6cr8wJ6xsBETQPm0XW0qn4oOT_n9yp0Q?e=VaWSS3
-
-# Setup instructions:
-Instructions for setting up the conda environment, any files that need downloading, and the specific technical instructions for how to run your code project go here:
-
-```
-In the Installers folder there are all the installations needed to run all the projects in the system, attached is also a link to OneDrive that contains the Data folder, 
-```
+# PML_Project_Group_1
+24/25 Personalisation and Machine Learning - IU000135 - Group 1
 
 
-## AI Assistance Disclaimer
-⚠️ Disclaimer: This project was developed with the assistance of AI tools, including large language models such as OpenAI's ChatGPT. AI was utilized to support:
+Project Overview: 
 
-<li>Code syntax refinement</li>
-<li>Debugging and troubleshooting</li>
-<li>Optimizing coding best practices and modularity</li>
+Festiv-AI is a personalised advertising system for music festivals that leverages Generative AI to automatically create customised promotional posters for each individual.
+By combining AI-powered text generation and Python automation, Festiv-AI produces a wide variety of unique ads by dynamically assembling artist images, festival backgrounds, and personalised messaging and schedules. 
+This allows festivals to generate hundreds of tailored ads at scale, improving audience engagement and promoting young and new artists, while significantly reducing manual design effort.
+
+
+Team Members: 
+- Daniela Sierra
+- Iman Mohamed Ahmed
+- Maria Margarida Lira Gomes de Almeida Belo
+- Felipe Lopez Mantilla
+- Ketan Sharma
+- Michal Misanko
+

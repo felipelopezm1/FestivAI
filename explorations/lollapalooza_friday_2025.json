@@ -1,0 +1,192 @@
+{
+  "T-Mobile": [
+    {
+      "artist": "Mary Droppinz",
+      "time": "12:00 - 12:35"
+    },
+    {
+      "artist": "Hex Cougar",
+      "time": "12:40 - 1:15"
+    },
+    {
+      "artist": "Tanner Adell",
+      "time": "1:15 - 2:00"
+    },
+    {
+      "artist": "Gigi Perez",
+      "time": "2:45 - 3:40"
+    },
+    {
+      "artist": "Alleycvtt",
+      "time": "3:30 - 4:15"
+    },
+    {
+      "artist": "Foster the People",
+      "time": "4:40 - 5:40"
+    },
+    {
+      "artist": "Djo",
+      "time": "6:40 - 7:40"
+    },
+    {
+      "artist": "Isoxo",
+      "time": "7:15 - 8:15"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "time": "8:40"
+    }
+  ],
+  "Perry's": [
+    {
+      "artist": "Viperactive",
+      "time": "1:30 - 2:15"
+    },
+    {
+      "artist": "Murda Beatz",
+      "time": "2:15 - 3:00"
+    },
+    {
+      "artist": "BUNT.",
+      "time": "4:30 - 5:30"
+    },
+    {
+      "artist": "Tape B",
+      "time": "6:00 - 7:00"
+    },
+    {
+      "artist": "Knock2",
+      "time": "8:30 - 9:45"
+    }
+  ],
+  "Lakeshore": [
+    {
+      "artist": "Dogpark",
+      "time": "12:30 - 1:15"
+    },
+    {
+      "artist": "Isabel LaRosa",
+      "time": "2:00 - 2:45"
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "time": "3:40 - 4:40"
+    },
+    {
+      "artist": "Amaarae",
+      "time": "5:40 - 6:40"
+    },
+    {
+      "artist": "Wallows",
+      "time": "7:40 - 8:40"
+    }
+  ],
+  "BMI": [
+    {
+      "artist": "Winyah",
+      "time": "1:00 - 1:40"
+    },
+    {
+      "artist": "Cassandra Coleman",
+      "time": "2:10 - 2:50"
+    },
+    {
+      "artist": "Caroline Kingsbury",
+      "time": "3:20 - 4:00"
+    },
+    {
+      "artist": "Midnight Generation",
+      "time": "4:30 - 5:10"
+    },
+    {
+      "artist": "Carol Ades",
+      "time": "5:40 - 6:20"
+    },
+    {
+      "artist": "Star Bandz",
+      "time": "6:50 - 7:30"
+    },
+    {
+      "artist": "Mary Droppinz",
+      "time": "7:30 - 8:30"
+    }
+  ],
+  "The Grove": [
+    {
+      "artist": "Jesse Detor",
+      "time": "12:00 - 12:30"
+    },
+    {
+      "artist": "Old Mervs",
+      "time": "12:50 - 1:30"
+    },
+    {
+      "artist": "Hey, Nothing",
+      "time": "1:50 - 2:30"
+    },
+    {
+      "artist": "Zinadelphia",
+      "time": "2:50 - 3:30"
+    },
+    {
+      "artist": "Orla Gartland",
+      "time": "4:00 - 4:45"
+    },
+    {
+      "artist": "The Dare",
+      "time": "5:15 - 6:00"
+    },
+    {
+      "artist": "Ocean Alley",
+      "time": "6:30 - 7:15"
+    },
+    {
+      "artist": "Wyatt Flores",
+      "time": "7:45 - 8:30"
+    },
+    {
+      "artist": "Bladee",
+      "time": "9:00 - 10:00"
+    }
+  ],
+  "Tito's Handmade Vodka": [
+    {
+      "artist": "Alemeda",
+      "time": "12:00 - 12:45"
+    },
+    {
+      "artist": "Kenny Mason",
+      "time": "1:30 - 2:30"
+    },
+    {
+      "artist": "Del Water Gap",
+      "time": "3:30 - 4:30"
+    },
+    {
+      "artist": "Flipturn",
+      "time": "5:30 - 6:30"
+    }
+  ],
+  "Bud Light": [
+    {
+      "artist": "Jane Remover",
+      "time": "12:45 - 1:30"
+    },
+    {
+      "artist": "Otoboke Beaver",
+      "time": "3:00 - 3:45"
+    },
+    {
+      "artist": "T-Pain",
+      "time": "4:30 - 5:30"
+    },
+    {
+      "artist": "Bleachers",
+      "time": "6:30 - 7:30"
+    },
+    {
+      "artist": "Korn",
+      "time": "8:30 - 10:00"
+    }
+  ]
+}
